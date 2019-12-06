@@ -14,7 +14,8 @@
             "hidden": false,
             "name": "Ubuntu-18.04",
             "source": "Windows.Terminal.Wsl",
-            "fontFace" : "Source Code Pro for Powerline",
+            # "fontFace" : "Source Code Pro for Powerline",
+            "fontFace" : "SauceCodePro NF",
             "fontSize" : 11,
             "startingDirectory" : "//wsl$/Ubuntu-18.04/home/ray",
             "colorScheme" : "Newton"
